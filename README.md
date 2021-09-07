@@ -1,4 +1,4 @@
-# Resource Pack Template
+# TOH Hooty Resource Pack for Java Edition
 
-- Use this to start a resource pack, other formats are on seperate branches.
-- Download the pack format version you need from the [releases page](https://github.com/Love-and-Tolerance/Resource-Pack-template/releases/latest). 
+Ported from https://redd.it/pjfrd2 \
+Credit to u/SpilledCobra872 
